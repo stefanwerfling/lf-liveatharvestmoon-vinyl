@@ -1,9 +1,16 @@
 # Lennium fighters - Live at Harvest Moon - Vinyl
 These are the data for the design of the vinyl for the album "Live at Harvest Moon" by the "Lennium Fighters".
 
-There is now a copy (in transparent vinyl) which the Lennium Fighters have signed in 2022!
-
-![Album Signed](album_signed.jpeg)
+<table>
+    <tr>
+        <td> 
+            <img src="cover.jpg" alt="Front/Cover" width="360px" />
+        </td>
+        <td>
+			      <img src="back2.png" alt="Back" width="360px" />&nbsp;
+        </td>
+    </tr>
+</table>
 
 # Songs / Tracks - released March 24, 2020
 [Album: Live at Harvest Moon](https://lenniumfighters.bandcamp.com/album/live-at-harvest-moon)
@@ -21,6 +28,9 @@ There is now a copy (in transparent vinyl) which the Lennium Fighters have signe
 3. Am I Not Creative 06:34
 4. Mein Thüringen 04:03
 
+## There is now a copy (in transparent vinyl) which the Lennium Fighters have signed in 2022!
+
+![Album Signed](album_signed.jpeg)
 
 # Image Sources
 **Back**
