@@ -1,4 +1,4 @@
-# Lennium fighters - Live at Harvest Moon - Vinyl
+# Lennium Fighters - Live at Harvest Moon - Vinyl
 These are the data for the design of the vinyl for the album "Live at Harvest Moon" by the [Lennium Fighters](https://www.lenniumfighters.com/).
 
 <table>
