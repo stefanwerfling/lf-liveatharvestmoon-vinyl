@@ -25,7 +25,4 @@ There is now a copy (in transparent vinyl) which the Lennium Fighters have signe
 # Image Sources
 **Back**
 - Photo by Just Another Photography Dude from Pexels: https://www.pexels.com/photo/crescent-moon-579325/
-  
-**Disc**
-- Photo by Sarowar Hussain from Pexels: https://www.pexels.com/photo/extreme-close-up-shot-of-a-full-moon-4991321/
 
